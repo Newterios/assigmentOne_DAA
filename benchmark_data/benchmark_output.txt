@@ -1,0 +1,39 @@
+=== SORTING ALGORITHMS BENCHMARK ===
+
+--- Array size: 100 ---
+HybridMergeSort: 0,048 ms
+QuickSort      : 0,092 ms
+InsertionSort  : 0,113 ms
+
+--- Array size: 1000 ---
+HybridMergeSort: 0,418 ms
+QuickSort      : 0,392 ms
+InsertionSort  : 3,191 ms
+
+--- Array size: 10000 ---
+HybridMergeSort: 1,136 ms
+QuickSort      : 1,018 ms
+InsertionSort  : 19,871 ms
+
+--- Array size: 50000 ---
+HybridMergeSort: 3,635 ms
+QuickSort      : 2,567 ms
+
+=== SELECT ALGORITHMS BENCHMARK ===
+
+--- Array size: 100 ---
+DeterministicSelect: 0,854 ms (result: 804)
+ArraysSort     : 1,559 ms (result: 804)
+
+--- Array size: 1000 ---
+DeterministicSelect: 0,499 ms (result: 7514)
+ArraysSort     : 0,309 ms (result: 7514)
+
+--- Array size: 10000 ---
+DeterministicSelect: 1,343 ms (result: 10867)
+ArraysSort     : 2,444 ms (result: 10867)
+
+--- Array size: 50000 ---
+DeterministicSelect: 5,597 ms (result: 495954)
+ArraysSort     : 3,608 ms (result: 495954)
+
