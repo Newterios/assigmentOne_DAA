@@ -4,6 +4,7 @@ import com.github.newterios.metrics.SortMetrics;
 import java.util.Arrays;
 
 public class DeterministicSelect {
+
     private final SortMetrics metrics;
 
     public DeterministicSelect() {

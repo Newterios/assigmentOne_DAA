@@ -4,6 +4,7 @@ import com.github.newterios.metrics.SortMetrics;
 import java.util.Random;
 
 public class QuickSort {
+
     private final SortMetrics metrics;
     private final Random random;
 
