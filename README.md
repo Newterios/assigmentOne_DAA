@@ -134,7 +134,7 @@
 ![Final Performance Graphik(Nanoseconds)](images/Final_Performance_Graphic(Nanoseconds).png)
 
 *Closest Pair data from reference implementation  
-†Estimated based on complexity growth patterns
+Estimated based on complexity growth patterns
 
 ---
 
